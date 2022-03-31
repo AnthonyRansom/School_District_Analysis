@@ -53,7 +53,7 @@ The below provides insight into how the exclusion of the relevant data has affec
 	- The alteration of the data only affected the Grade 9 results for Thomas High while the other grades at Thomas High and other schools were not affected
 	#### Math Scores by Grade - Orginal Data vs adjusted Data
 	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
-	#### Reading Scores by Grade - Orgiinal Data vs adjusted Data
+	#### Reading Scores by Grade - Orginal Data vs adjusted Data
 	![Reading_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
 	#### Scores by School Spending - Orgiinal Data
