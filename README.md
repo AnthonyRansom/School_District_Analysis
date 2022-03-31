@@ -56,8 +56,20 @@ The below provides how the exclusion of the relevant has affected the school and
 	#### Reading Scores by Grade - Orgiinal Data vs adjusted Data
 	![Reading_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
-	- The Scores by school size showed no decrease or increase in any of the average scores or pass rates within the various school size brackets 
+	#### Scores by School Spending - Orgiinal Data
+	![scores_school_spending_original_data](/analysis/scores_school_spending_original_data.PNG)
+	#### Scores by School Spending - Adjusted Data
+	![scores_school_spending_adjusted_data](/analysis/scores_school_spending_adjusted_data.PNG)
+	- The Scores by school size showed no decrease or increase in any of the average scores or pass rates within the various school size brackets
+	#### Scores by School Size - Orgiinal Data
+	![scores_school_size_original_data](/analysis/scores_school_size_original_data.PNG)
+	#### Scores by School Size - Adjusted Data
+	![scores_school_size_adjusted_data](/analysis/scores_school_size_adjusted_data.PNG)
 	- The Scores by school type showed no decrease of increase in any of the average scores or pass rates for the Charter and District school types
+	#### Scores by School Type - Orgiinal Data
+	![scores_school_type_original_data](/analysis/scores_school_type_original_data.PNG)
+	#### Scores by School Type - Adjusted Data
+	![scores_school_type_adjusted_data](/analysis/scores_school_type_adjusted_data.PNG)
 
 ## Summary
 
