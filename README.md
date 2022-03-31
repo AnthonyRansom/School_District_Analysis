@@ -38,16 +38,19 @@ The below provides how the exclusion of the relevant has affected the school and
  - Thomas high maintained a spot as one of the top 5 schools in the district before and after the adjustment of the 9th grade data
 	#### Top Schools Original Data
 	![top_performaing_schools_-_orginal_dataset](/analysis/top_performaing_schools_-_orginal_dataset.PNG)
-	#### Top Schools adjusted Data
+	#### Top Schools Adjusted Data
 	![top_performaing_schools_-_Thomas_high_9th_grade_excluded](/analysis/top_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 	
-	
+	#### Bottom Schools Original Data
 	![Bottom_performaing_schools_-_orginal_dataset](/analysis/Bottom_performaing_schools_-_orginal_dataset.PNG)
+	#### Bottom Schools Adjusted Data
 	![Bottom_performaing_schools_-_orginal_dataset](/analysis/Bottom_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 
 
- - Overall replacing the 9th grade marks for Thomas high had little affect on the district analysis once the 9th grade were removed from that analysis:
+ - Overall replacing the 9th grade marks for Thomas high had little affect on the district analysis once the 9th grade scores were removed from that analysis:
 	- The alteration of the data only affected the Grade 9 results for Thomas High while the other grades at Thomas High and other schools were not affected
+	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
+	![Reading_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
 	- The Scores by school size showed no decrease or increase in any of the average scores or pass rates within the various school size brackets 
 	- The Scores by school type showed no decrease of increase in any of the average scores or pass rates for the Charter and District school types
