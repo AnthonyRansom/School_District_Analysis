@@ -16,7 +16,7 @@ This analysis will look further at how excluding the 9th grade student data from
 
 ## Results
 The analysis of the Math and Reading scores for the various schools within the district was completed using both the original dataset and the excluded data requested by the school board.
-The below provides how the exclusion of the relevant has affected the school and district passing results:
+The below provides insight into how the exclusion of the relevant data has affected the school and district passing results:
 
  - The exclusion of the 9th grade results from Thomas high had very little affect on the district data with a very minor difference of less than 1% change in the average scores and pass rates
 	- The below screenshot show the change in the average math score and the passing rates showed a slight decrease of less than 1% but the average Reading scores has stayed the same
