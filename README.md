@@ -18,22 +18,22 @@ This analysis will look further at how excluding the 9th grade student data from
 The analysis of the Math and Reading scores for the various schools within the district was completed using both the original dataset and the excluded data requested by the school board.
 The below provides insight into how the exclusion of the relevant data has affected the school and district passing results:
 
- - The exclusion of the 9th grade results from Thomas high had very little affect on the district data with a very minor difference of less than 1% change in the average scores and pass rates
-	- The below screenshot show the change in the average math score and the passing rates showed a slight decrease of less than 1% but the average Reading scores has stayed the same
+ - The exclusion of the 9th grade results from Thomas high had very little affect on the district results with a very minor difference of less than 1% change in the average scores and pass rates
+	- The below screenshots show the change in the average math score and the passing rates showed a slight decrease of less than 1% but the average Reading scores has stayed the same
 	#### District Results - Original Data
 	![School District Results - Original Dataset](/analysis/School_District_Results_-_Original_Dataset.PNG)
 	#### District Results - Adjusted Data
 	![School District Results - adjusted Dataset](/analysis/School_District_Results_-_adjusted_data.PNG)
 
  - Overall the exclusion of the 9th grade results of Thomas high did not affect any of the other schools results as expected but the following was observed:
-	- With reference to the below results of the Thomas High Results before the 9th grade data was excluded Thomas High was performing as follows:
+	- The below shows the per school analysis before the data was adjusted to exclude the 9th grade results of Thomas High
 	![School_Summary_-_original_dataset](/analysis/School_Summary_-_original_dataset.PNG)
 	
-	- After the Thomas High Math and reading score were set to "NaN" the Average Math and Reading scores and passing rates had a large 25-30% decrease:
+	- After the Thomas High Math and reading score were set to "NaN" the Average Math and Reading scores and passing rates had a large 25-30% decrease for Thomas High:
 	![School_Summary_-_adjusted_data](/analysis/School_Summary_-_adjusted_data.PNG)
 	
-	- Due to the above it was concluded the 9th grade students from Thomas High should be excluded from the total student count as including a large amount of students with no grades result in too many outliers which skews the results. 
-	The analysis was adjusted to excluded the 9th grade students from the Thomas High student count which shows the Math, Reading and Overall passing rates return to their original values only indicating about 1% difference
+	- Due to the above it was concluded the 9th grade students from Thomas High should be excluded from the total student count as including a large amount of students with no grades resulted in too many outliers which skewed the results. 
+	The analysis was adjusted to excluded the 9th grade students from the Thomas High student count and only include the 10th, 11th and 12th grade students which shows the Math, Reading and Overall passing rates increase only indicating about 1% difference
 	compared to the original data.
 	![School_Summary_-_Thomas_high_9th_grade_excluded](/analysis/School_Summary_-_Thomas_high_9th_grade_excluded.PNG)
  
@@ -49,7 +49,7 @@ The below provides insight into how the exclusion of the relevant data has affec
 	![Bottom_performaing_schools_-_orginal_dataset](/analysis/Bottom_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 
 
- - Overall replacing the 9th grade marks for Thomas high had little affect on the district analysis once the 9th grade scores were removed from that analysis:
+ - Replacing the 9th grade marks for Thomas high had little affect overall on the district analysis once the 9th grade scores were removed from that analysis:
 	- The alteration of the data only affected the Grade 9 results for Thomas High while the other grades at Thomas High and other schools were not affected
 	#### Math Scores by Grade - Orginal Data vs adjusted Data
 	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
@@ -79,4 +79,4 @@ The requested alteration to the 9th grade Math and Reading scores did not show a
  - The percent passing rate for Reading shows a decrease by 0.3%
  - The overall passing percent shows a decrease of 0.1%
  
-From the above results reported by the analysis it can be concluded that the reported dishonest data for the 9th grade students at Thomas high did not affect the overall district or school results any significant way.
+From the above results reported by the analysis it can be concluded that the reported dishonest data for the 9th grade students at Thomas high did not affect the overall district or school results in any significant way.
