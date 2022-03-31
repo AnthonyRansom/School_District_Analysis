@@ -54,7 +54,7 @@ The below provides insight into how the exclusion of the relevant data has affec
 	#### Math Scores by Grade - Orginal Data vs adjusted Data
 	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
 	#### Reading Scores by Grade - Orginal Data vs adjusted Data
-	![Reading_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
+	![Reading_scores_by_grade_-_original_data](/analysis/Reading_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Reading_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
 	#### Scores by School Spending - Orgiinal Data
 	![scores_school_spending_original_data](/analysis/scores_school_spending_original_data.PNG)
