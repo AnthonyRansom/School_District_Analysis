@@ -20,7 +20,9 @@ The below provides how the exclusion of the relevant has affected the school and
 
  - The exclusion of the 9th grade results from Thomas high had very little affect on the district data with a very minor difference of less than 1% change in the average scores and pass rates
 	- The below screenshot show the change in the average math score had a 0.1% decrease while the pass rates had a increase across the board by less than 1%
+	#### District Results - Original Data
 	![School District Results - Original Dataset](/analysis/School_District_Results_-_Original_Dataset.PNG)
+	#### District Results - Adjusted Data
 	![School District Results - adjusted Dataset](/analysis/School_District_Results_-_adjusted_data.PNG)
 
  - Overall the exclusion of the 9th grade results of Thomas high did not affect any of the other schools results as expected but the following was observed:
@@ -36,22 +38,22 @@ The below provides how the exclusion of the relevant has affected the school and
 	![School_Summary_-_Thomas_high_9th_grade_excluded](/analysis/School_Summary_-_Thomas_high_9th_grade_excluded.PNG)
  
  - Thomas high maintained a spot as one of the top 5 schools in the district before and after the adjustment of the 9th grade data
-	#### Top Schools Original Data
+	#### Top Schools - Original Data
 	![top_performaing_schools_-_orginal_dataset](/analysis/top_performaing_schools_-_orginal_dataset.PNG)
-	#### Top Schools Adjusted Data
+	#### Top Schools - Adjusted Data
 	![top_performaing_schools_-_Thomas_high_9th_grade_excluded](/analysis/top_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 	
-	#### Bottom Schools Original Data
+	#### Bottom Schools - Original Data
 	![Bottom_performaing_schools_-_orginal_dataset](/analysis/Bottom_performaing_schools_-_orginal_dataset.PNG)
-	#### Bottom Schools Adjusted Data
+	#### Bottom Schools - Adjusted Data
 	![Bottom_performaing_schools_-_orginal_dataset](/analysis/Bottom_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 
 
  - Overall replacing the 9th grade marks for Thomas high had little affect on the district analysis once the 9th grade scores were removed from that analysis:
 	- The alteration of the data only affected the Grade 9 results for Thomas High while the other grades at Thomas High and other schools were not affected
-	#### Math Scores by Grade Orgiinal Data vs adjusted Data
+	#### Math Scores by Grade - Orgiinal Data vs adjusted Data
 	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
-	#### Reading Scores by Grade Orgiinal Data vs adjusted Data
+	#### Reading Scores by Grade - Orgiinal Data vs adjusted Data
 	![Reading_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
 	- The Scores by school size showed no decrease or increase in any of the average scores or pass rates within the various school size brackets 
