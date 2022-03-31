@@ -51,22 +51,22 @@ The below provides insight into how the exclusion of the relevant data has affec
 
  - Replacing the 9th grade marks for Thomas high had little affect overall on the district analysis once the 9th grade scores were removed from that analysis:
 	- The alteration of the data only affected the Grade 9 results for Thomas High while the other grades at Thomas High and other schools were not affected
-	#### Math Scores by Grade - Orginal Data vs adjusted Data
+	#### Math Scores by Grade - Original Data vs adjusted Data
 	![Math_scores_by_grade_-_original_data](/analysis/Math_scores_by_grade_-_original_data.PNG) ![Math_scores_by_grade_-_adjusted_data](/analysis/Math_scores_by_grade_-_adjusted_data.PNG)
-	#### Reading Scores by Grade - Orginal Data vs adjusted Data
+	#### Reading Scores by Grade - Original Data vs adjusted Data
 	![Reading_scores_by_grade_-_original_data](/analysis/Reading_scores_by_grade_-_original_data.PNG) ![Reading_scores_by_grade_-_adjusted_data](/analysis/Reading_scores_by_grade_-_adjusted_data.PNG)
 	- The Scores by school spending showed no decrease or increase in any of the score or pass rates within the various brackets
-	#### Scores by School Spending - Orgiinal Data
+	#### Scores by School Spending - Original Data
 	![scores_school_spending_original_data](/analysis/scores_school_spending_original_data.PNG)
 	#### Scores by School Spending - Adjusted Data
 	![scores_school_spending_adjusted_data](/analysis/scores_school_spending_adjusted_data.PNG)
 	- The Scores by school size showed no decrease or increase in any of the average scores or pass rates within the various school size brackets
-	#### Scores by School Size - Orgiinal Data
+	#### Scores by School Size - Original Data
 	![scores_school_size_original_data](/analysis/scores_school_size_original_data.PNG)
 	#### Scores by School Size - Adjusted Data
 	![scores_school_size_adjusted_data](/analysis/scores_school_size_adjusted_data.PNG)
 	- The Scores by school type showed no decrease or increase in any of the average scores or pass rates for the Charter and District school types
-	#### Scores by School Type - Orgiinal Data
+	#### Scores by School Type - Original Data
 	![scores_school_type_original_data](/analysis/scores_school_type_original_data.PNG)
 	#### Scores by School Type - Adjusted Data
 	![scores_school_type_adjusted_data](/analysis/scores_school_type_adjusted_data.PNG)
