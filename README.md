@@ -36,7 +36,9 @@ The below provides how the exclusion of the relevant has affected the school and
 	![School_Summary_-_Thomas_high_9th_grade_excluded](/analysis/School_Summary_-_Thomas_high_9th_grade_excluded.PNG)
  
  - Thomas high maintained a spot as one of the top 5 schools in the district before and after the adjustment of the 9th grade data
+	#### Top Schools Original Data
 	![top_performaing_schools_-_orginal_dataset](/analysis/top_performaing_schools_-_orginal_dataset.PNG)
+	#### Top Schools adjusted Data
 	![top_performaing_schools_-_Thomas_high_9th_grade_excluded](/analysis/top_performaing_schools_-_Thomas_high_9th_grade_excluded.PNG)
 	
 	
